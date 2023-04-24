@@ -1,0 +1,47 @@
+{
+  "file_columns": [
+    "D:/Riyaz coding/geojson2_data/IND1.geojson",
+    "D:/Riyaz coding/geojson2_data/IND2.geojson",
+    "D:/Riyaz coding/geojson2_data/IND3.geojson"
+  ],
+  "state_cols": [
+    "NAME_1", 
+    "NAME_2", 
+    "NAME_3"
+  ],
+  "district_cols": [
+    "VARNAME_1", 
+    "VARNAME_2", 
+    "VARNAME_3"
+  ],
+  "country_cols": [
+    "COUNTRY", 
+    "COUNTRY", 
+    "COUNTRY"
+  ],
+  "type_cols": [
+    "TYPE_1", 
+    "TYPE_2", 
+    "TYPE_3"
+  ],
+  "latitude_cols": [
+    "latitude", 
+    "latitude", 
+    "latitude"
+  ],
+  "longitude_cols": [
+    "longitude", 
+    "longitude", 
+    "longitude"
+  ],
+  "latitude1_cols": [
+    "latitude1", 
+    "latitude1", 
+    "latitude1"
+  ],
+  "longitude1_cols": [
+    "longitude1",
+    "longitude1",
+    "longitude1"
+  ]
+}
